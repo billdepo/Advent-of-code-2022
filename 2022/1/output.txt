@@ -1,0 +1,2 @@
+The max calories carried by an elf are: 69206 calories
+The 3 elves that carry the maximum calories are carrying in total: 197400 calories
