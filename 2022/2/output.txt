@@ -1,0 +1,2 @@
+The total score after 2500 individual Rock-Paper-Scissors games following strategy 1 is: 13446
+The total score after 2500 individual Rock-Paper-Scissors games following strategy 2 is: 13509
