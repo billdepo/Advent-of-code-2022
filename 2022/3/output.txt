@@ -1,0 +1,2 @@
+The sum of priorities for 300 rucksacks in Part 1 is: 7746
+The sum of priorities for 100 trinities of rucksacks in Part 2 is: 2604
