@@ -1,0 +1,2 @@
+The number of assignment pairs out of 1000 pairs where one range fully contains the other is: 534
+The number of assignment pairs out of 1000 pairs where one range fully overlaps with the other is: 841
