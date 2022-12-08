@@ -1,0 +1,2 @@
+Part1: Sum of all directories sizes <= 100000 is: 1581595
+Part2: Directory to be removed is jrflhz and has a total size of: 1544176
