@@ -1,0 +1,2 @@
+Part1: The crates on top of each stack after 501 rearrangement moves are: JCMHLVGMG
+Part2: The crates on top of each stack after 501 rearrangement moves are: LVMRWSSPZ

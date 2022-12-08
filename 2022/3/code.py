@@ -1,5 +1,5 @@
 # Advent of code Year 2022 Day 3 solution
-# Author = ?
+# Author = Vasileios Depastas
 # Date = December 2022
 
 def priority(charset: set) -> int:
