@@ -1,0 +1,2 @@
+Part1: On the signal comprised of 4095 characters, 1262 characters have to be processed before the first start-of-packet marker is detected
+Part2: On the signal comprised of 4095 characters, 3444 characters have to be processed before the first start-of-message marker is detected
