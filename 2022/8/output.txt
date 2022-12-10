@@ -1,0 +1,2 @@
+The number of trees visible from outside of the grid of size 99 x 99 is: 1805
+The hightest scenic score possible for any tree is 135

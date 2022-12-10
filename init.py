@@ -30,7 +30,7 @@ except ImportError:
 # Code
 MAX_RECONNECT_ATTEMPT = 2
 years = range(starting_advent_of_code_year, last_advent_of_code_year+1)
-days = range(1,26)
+days = range(8,26)
 link = "https://adventofcode.com/" # ex use : https://adventofcode.com/2017/day/19/input
 USER_AGENT = "adventofcode_working_directories_creator"
 
